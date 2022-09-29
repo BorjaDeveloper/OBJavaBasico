@@ -16,6 +16,8 @@ public class Funciones {
         String hola = devolverHola();
         System.out.println(hola);
 
+        holaMundo("Borja ", "Rodriguez");
+
     }
 
     /*
@@ -23,7 +25,7 @@ public class Funciones {
     - public o prívate: Private significa que solo es accesible desde esta clase, mientras public
     indica que se puede acceder a esa determinada función desde cualquier otra clase.
     - static: Hace referencia a que pertenece a la clase funciones que hemos indicado arriba.
-    - void: este es el tipo de dato que va a devolver. Podría ser un String, o un Int, por ejemplo.
+    - void: este es el tipo de dato que va a devolver. Void no devuelve nada. Podría ser un String, Int...
     - identificador: en este caso hemos llamado al identificador holaMundo.
      */
 
@@ -46,7 +48,7 @@ public class Funciones {
 
     public static void holaMundo(String name, String surname) {
 
-        System.out.println("Hola " + name + surname);
+        System.out.println("Hola " + name + " " + surname);
     }
     /*
     Por sobrecarga de funciones entendemos que podemos tener funciones repetidas con el mismo nombre,
