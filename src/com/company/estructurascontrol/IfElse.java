@@ -1,8 +1,8 @@
-package com.company;
+package com.company.estructurascontrol;
 
 public class IfElse {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         boolean check = 5 < 10;
 
@@ -15,12 +15,10 @@ public class IfElse {
         Lo de arriba son ejemplos de como podemos colocar datos para poder realizar un If/Else más abajo.
          */
 
-        if(number3<number2) {
+        if (number3 < number2) {
 
             System.out.println("Verdadero");
-        }
-
-        else {
+        } else {
             System.out.println("Error");
         }
 

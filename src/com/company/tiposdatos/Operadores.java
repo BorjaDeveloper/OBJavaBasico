@@ -1,4 +1,4 @@
-package com.company;
+package com.company.tiposdatos;
 
 public class Operadores {
 
@@ -64,6 +64,7 @@ public class Operadores {
       /=
       *=
       %=
+      === IMPORTANTE, EN JAVA NO EXISTE!!
       */
 
       //Operadores de incremento o decremento

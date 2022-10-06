@@ -1,4 +1,4 @@
-package com.company;
+package com.company.tiposdatos;
 
 /*
     Modificador de la accesibilidad:

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.estructurascontrol;
 
 /*
 La sintaxis switch se utiliza cuando tenemos que evaluar multiples condiciones y no queremos hacerlo
