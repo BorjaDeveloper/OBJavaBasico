@@ -75,8 +75,8 @@ public class Coche {
     }
 
     /*
-    Tenemos el método ToString que nos va a permitir imprimir a través de la consola los objetos creados a partir
-    de esta clase.
+    Tenemos el método ToString que nos va a permitir imprimir a través de la consola los objetos creados a
+    partir de esta clase.
      */
     @Override
     public String toString() {

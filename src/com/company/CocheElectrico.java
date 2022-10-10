@@ -33,7 +33,7 @@ public class CocheElectrico extends Coche {
 
     /*
     Esta palabra super se utiliza en el lenguaje Java para invocar al método constructor de una clase superior
-    (clase padre) de la cual queremos utilizar el mismo tipo de parametrización, entonces esta palabrita sube de
+    (clase padre) de la cual queremos utilizar el mismo tipo de parametrización, entonces esta palabra sube de
     categoría y pasa a ser el método super().
 
     El método super nos permite reutilizar bloques de código sin tener que volver a escribir lo mismo, invocando al

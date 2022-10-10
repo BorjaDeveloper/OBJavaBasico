@@ -71,7 +71,7 @@ public class CocheMain {
         pero la clase cocheElectrico no la tiene, pero la hereda de la clase Coche al utilizar la palabra extends.
         Con lo cual debería funcionar y modificarse si colocamos la línea de código inferior.
         Funciona, pero funciona tal cual viene planteado en la clase padre Coche. Si queremos modificar su
-        comportamiento, debemos irnos a la clase CocheElectrico y sobreeescribirlo allí si queremos modificar
+        comportamiento, debemos irnos a la clase CocheElectrico y sobreescribirlo allí si queremos modificar
         su funcionamiento.
          */
 
