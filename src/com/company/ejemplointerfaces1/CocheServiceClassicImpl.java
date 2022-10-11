@@ -1,8 +1,7 @@
-package com.company.interfaces;
+package com.company.ejemplointerfaces1;
 
-import com.company.Coche;
-import com.company.CocheElectrico;
-import com.company.interfaces.CocheService;
+import com.company.poo.ejemplo2.Coche;
+import com.company.poo.ejemplo2.CocheElectrico;
 
 /*
 Esto sería una implementación para coches clasicos. Se realiza con la palabra reservada implements. Las clases

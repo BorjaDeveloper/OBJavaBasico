@@ -1,4 +1,4 @@
-package com.company;
+package com.company.poo.ejemplo2;
 
 /*
 Esta sería la estructura de una clase en la mayoría de los casos.

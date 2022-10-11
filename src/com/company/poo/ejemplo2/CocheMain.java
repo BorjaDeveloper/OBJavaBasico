@@ -1,8 +1,12 @@
-package com.company;
+package com.company.poo.ejemplo2;
 
 /*
 Vamos a crear un objeto
  */
+
+import com.company.poo.ejemplo2.Coche;
+import com.company.poo.ejemplo2.CocheElectrico;
+import com.company.poo.ejemplo2.CocheHibrido;
 
 public class CocheMain {
 

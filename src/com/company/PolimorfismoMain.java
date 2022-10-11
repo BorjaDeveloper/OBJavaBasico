@@ -1,5 +1,9 @@
 package com.company;
 
+import com.company.poo.ejemplo2.Coche;
+import com.company.poo.ejemplo2.CocheElectrico;
+import com.company.poo.ejemplo2.CocheHibrido;
+
 public class PolimorfismoMain {
 
     public static void main(String[] args) {

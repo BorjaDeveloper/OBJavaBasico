@@ -1,4 +1,4 @@
-package com.company;
+package com.company.poo.ejemplo2;
 
 /*
 Tenemos una clase general, o una clase padre que es coche, pero luego podemos tener diferentes tipos de
@@ -8,7 +8,9 @@ tenemos la palabra reservada en Java "extends". Con la palabra extends conseguim
 herede de la clase padre Coche, ya que hay muchos atributos o métodos que pueden ser comunes a ambos.
  */
 
-public class CocheHibrido extends Coche{
+import com.company.poo.ejemplo2.Coche;
+
+public class CocheHibrido extends Coche {
 
     //Aquí estamos agregando un atributo que no tuviese la clase padre, la clase Coche. Por ejemplo.
     String motorHibrido;

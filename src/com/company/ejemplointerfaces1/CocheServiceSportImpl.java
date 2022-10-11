@@ -1,8 +1,7 @@
-package com.company.interfaces;
+package com.company.ejemplointerfaces1;
 
-import com.company.Coche;
-import com.company.CocheElectrico;
-import com.company.interfaces.CocheService;
+import com.company.poo.ejemplo2.Coche;
+import com.company.poo.ejemplo2.CocheElectrico;
 
 public class CocheServiceSportImpl implements CocheService {
 

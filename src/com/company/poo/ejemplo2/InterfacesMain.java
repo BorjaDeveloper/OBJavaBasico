@@ -1,15 +1,18 @@
-package com.company.interfaces;
+package com.company.poo.ejemplo2;
 
-import com.company.Coche;
+import com.company.poo.ejemplo2.Coche;
+import com.company.ejemplointerfaces1.CocheService;
+import com.company.ejemplointerfaces1.CocheServiceClassicImpl;
+import com.company.ejemplointerfaces1.CocheServiceSportImpl;
 
 public class InterfacesMain {
 
     public static void main(String[] args) {
 
         /*
-        Para crear la instancia, la sintaxis sería el nombre de la interface, el nombre que queramos darle nosotros
-        a la acción = el operador new para crearlo y el nombre de cualquiera de las clases que han implementado esa
-        interface.
+        Para crear la instancia, la sintaxis sería el nombre de la interface, el nombre que queramos darle
+        nosotros a la acción = el operador new para crearlo y el nombre de cualquiera de las clases que han
+        implementado esa interface.
          */
         CocheService service1 = new CocheServiceSportImpl();
         CocheService service2 = new CocheServiceClassicImpl();
